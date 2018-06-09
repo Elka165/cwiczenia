@@ -1,2 +1,0 @@
-# cwiczenia
-zadanie z gwiazdką
